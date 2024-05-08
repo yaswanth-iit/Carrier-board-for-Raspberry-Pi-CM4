@@ -15,7 +15,7 @@ Features:
 * Dimensions: 61 x 65.1 x 13.7 mm     |     Weight: 49 gm
 
 <p float="left">
-  <img src="https://github.com/yaswanth-iit/Carrier-board-for-Raspberry-Pi-CM4/blob/main/images/cb_top_3d.jpg" width="400" />
+  <img src="https://github.com/yaswanth-iit/Carrier-board-for-Raspberry-Pi-CM4/blob/main/images/cb_top_3d1.jpg" width="400" />
   <img src="https://github.com/yaswanth-iit/Carrier-board-for-Raspberry-Pi-CM4/blob/main/images/cb_top_ori.jpg" width="400" /> 
 </p>
 
@@ -35,6 +35,6 @@ Features:
 </p>
 
 <p float="left">
-  <img src="https://github.com/yaswanth-iit/Carrier-board-for-Raspberry-Pi-CM4/blob/main/images/pane%3B.jpg" width="500" />
+  <img src="https://github.com/yaswanth-iit/Carrier-board-for-Raspberry-Pi-CM4/blob/main/images/pane%3B.jpg" width="1000" />
 </p>
 
