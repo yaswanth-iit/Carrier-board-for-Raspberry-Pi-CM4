@@ -6,9 +6,10 @@ For more details, please contact [Urban Matrix](https://www.urbanmatrix.co.in/)
 
 Features: 
 
-* Allows single / a fleet of drones to monitor & control simultaneously remotely over 4G/5G network and through Android app
-*  This system is installed inside the drone to extend its capabilities & processing power 
-* Allows to connect multiple sensors/modules to dronelike Flight controller, RC receiver, Video camera, Flow meter, Satellite communication module, Battery management system 
+* Allows single or a fleet of drones to monitor, track & control simultaneously remotely over 4G/5G network and also through Android app
+* This system is installed inside the drone to extend its capabilities & processing power
+* Sends live video stream to dashboard in web application
+* Allows to connect multiple sensors/modules to drone like Flight controller, RC receiver, Video camera, Flow meter, Satellite communication module, Battery management system, LIDAR
 * Operating voltage & current: 5V / 1.2 A 
 * In-built reverse polarity protection  
 * LED status indicators for activity of processor & network 
