@@ -13,7 +13,7 @@ Features:
 * Operating voltage & current: 5V / 1.2 A 
 * In-built reverse polarity protection  
 * LED status indicators for activity of processor & network 
-* Dimensions: 61 x 65.1 x 13.7 mm     |     Weight: 49 gm
+* Dimensions: 61 x 65 x 13.7 mm     |     Weight: 49 gm
 
 <p float="left">
   <img src="https://github.com/yaswanth-iit/Carrier-board-for-Raspberry-Pi-CM4/blob/main/images/cb_top_3d1.jpg" width="400" />
